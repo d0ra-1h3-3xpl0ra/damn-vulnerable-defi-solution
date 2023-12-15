@@ -353,3 +353,15 @@ zsdoc/data
 # Zunit tests' output
 /tests/_output/*
 !/tests/_output/.gitkeep
+
+# DVD .gitingore
+node_modules
+build
+contracts/player-contracts/*.sol
+*.solved.js
+*.solved.json
+cache
+.openzeppelin
+.vscode
+artifacts
+cache
